@@ -1,3 +1,4 @@
+Delete me test
 # ![nf-core/gwas](docs/images/nf-core/gwas_logo_light.png#gh-light-mode-only) ![nf-core/gwas](docs/images/nf-core/gwas_logo_dark.png#gh-dark-mode-only)
 
 [![GitHub Actions CI Status](https://github.com/nf-core/gwas/workflows/nf-core%20CI/badge.svg)](https://github.com/nf-core/gwas/actions?query=workflow%3A%22nf-core+CI%22)
